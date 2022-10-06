@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+  }
+.main{
+    background-color: whitesmoke;
+    height: 100vh;
+}
+.top
+{
+    background-color: #045903;
+    color: white;
+}
+#nav-name
+{
+    color: white;
+}
