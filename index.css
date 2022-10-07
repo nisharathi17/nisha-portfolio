@@ -21,3 +21,35 @@ background: linear-gradient(90deg, rgba(146,169,158,1) 0%, rgba(255,255,255,1) 5
 {
     padding-top: 20px;
 }
+.header
+{
+    height: 40%;
+    background-color: black;
+    margin: 10px;
+    border-radius: 5px;
+}
+.card
+{
+    width: 100%;
+    color: white;
+    border-radius: 5px;
+}
+.card-body
+{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.card-text
+{
+    color: white;
+}
+.card-title
+{
+    font-weight: bold;
+}
+#imageheader
+{
+   width: 100%;
+    height:inherit;
+}
